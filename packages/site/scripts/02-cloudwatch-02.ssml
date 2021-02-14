@@ -1,0 +1,30 @@
+<speak>
+<p><sub alias="やまscript">yamascript</sub>第二回</p>
+<p>software developer のやまたつがAWSのドキュメントを読んだり素振りしたりして得た知識を発信するpodcastです。</p>
+<p>隙間時間のAWS学習として利用されることを目指しています。</p>
+
+<p>Cloud Watch</p>
+dashboard
+metrics
+alarm
+Synthetics
+ServiceLens
+異常検出
+Contributor Insights
+Container Insights
+Lambda Insights
+CloudWatch エージェント
+<p>Cloud Watch Events</p>
+<p>Cloud Watch ログ</p>
+insights
+group & stream
+filter
+subscription
+firehose
+export to s3
+stream to Elasticsearch
+security
+Cloud Trail
+エージェント
+
+</speak>

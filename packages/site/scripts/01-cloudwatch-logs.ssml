@@ -1,0 +1,19 @@
+<speak>
+<p><sub alias="やまscript">yamascript</sub>第一回</p>
+<p>ソフトウェアデベロッパーのやまたつがAWSのドキュメントを読んだり素振りしたりして得た知識を発信するpodcastです。</p>
+<p>隙間時間のAWS学習として利用されることを目指しています。</p>
+
+<p>yamascript最初のテーマはCloudWatchを取り上げようと思います。</p>
+<p>というのも、僕自身がサーバーアプリケーションを見ていた2017年頃に比べて格段に機能が増えており、一度、体系付けてアウトプットすることで整理したいと考えたからです。</p>
+<p>その頃からの主なアップデートで言うと、 Logs Insights, Container Insights, 異常検出, ServiceLens, Contributor Insights, Synthetics, Lambda Insights などがあります。</p>
+<p>それでは今回はその中でも CloudWatch Logs を中心に説明したいと思います。</p>
+
+<p>クラウドベースのアプリケーションでは、ログをEC2などのインスタンスの内部ではなく、インスタンスの外側で一元的に管理され検索可能であることが求められます。</p>
+<p>特にWEBアプリケーションのサーバーなどでは、AUTO Scallingなどによってインスタンス数は可変である場合が多く、</p>
+
+<p>Logs Insightsは</p>
+<p>ひと昔前まではCloudWatch Logsだけでは機能が足りず、ElasticSearchやKibanaを用いた可視化が必要であったように思います。</p>
+<p>Logs InsightsによるLog StreamやLog Groupを跨いだ検索が可能になったことで、この問題は大きく改善しました。</p>
+
+<p></p>
+</speak>

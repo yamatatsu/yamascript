@@ -1,0 +1,14 @@
+{
+    "SynthesisTask": {
+        "Engine": "standard",
+        "TaskId": "1ba0afbc-157e-4b63-93f4-91c7fd78b588",
+        "TaskStatus": "scheduled",
+        "OutputUri": "https://s3.ap-northeast-1.amazonaws.com/yamascript-cloudfront-bucket83908e77-1lqmlum9g7zjc/mp3/.1ba0afbc-157e-4b63-93f4-91c7fd78b588.mp3",
+        "CreationTime": "2021-02-10T22:38:47.190000+09:00",
+        "RequestCharacters": 127,
+        "OutputFormat": "mp3",
+        "TextType": "ssml",
+        "VoiceId": "Takumi",
+        "LanguageCode": "ja-JP"
+    }
+}
