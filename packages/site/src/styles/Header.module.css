@@ -1,0 +1,31 @@
+.header {
+  width: 100%;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #fff;
+  background: #000 url(/images/bg.jpg) center center no-repeat;
+  background-size: cover;
+  color: #fff;
+}
+
+.header-inner {
+  padding: 10px 30px 20px 30px;
+  position: relative;
+  max-width: 639px;
+  margin: auto;
+}
+
+.title {
+  font-size: 3em;
+}
+
+.title a {
+  text-decoration: none;
+  transition-duration: 0.2s;
+  background-color: transparent;
+}
+
+.tagline {
+  display: block;
+  font-size: 0.3em;
+  font-weight: normal;
+}
