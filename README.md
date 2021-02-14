@@ -8,6 +8,8 @@
 - [ ] custom domain
 - [x] mp3 どこに置く？
 - [ ] 台本をもっと書く
+- [ ] かっこいい css in js
+- [ ] かっこいいサイト
 
 ## Usage
 
@@ -20,4 +22,3 @@
 1. write ssml
 1. make polly create mp3
 1. create rss feed
-1. deploy rss feed
